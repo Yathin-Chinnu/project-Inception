@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+weight loss@exercise.com
+</title>
+<style>
+ body{background-repeat: no-repeat;
+      background-size: 100% 100%;}
+ table{border:2px solid red;}
+</style>
+</head>
+<body background="">
+<table border="5" cellpadding="25">
+<tr>
+ <td><font size="20" color="">EXERCISES</font></td>
+ <td><font size="20" color="">BENEFITS AND USES</font></td>
+</tr>
+<tr>
+ <td><font size="20" color="">Walking</font></td>
+ <td><font size="10" color="">person burns around 167 calories per 30 minutes of walking</font></td>
+</tr>
+<tr>
+ <td><font size="20" color="">Cycling</font></td>
+ <td><font size="10" color="">person burns around 260 calories per 30 minutes of cycling</font></td>
+</tr>
+<tr>
+ <td><font size="20" color="">Rope Jumping</font></td>
+ <td><font size="10" color="">person burns around 600 calories per 30 minutes of rope jumping</font></td>
+</tr>
+<tr>
+ <td><font size="20" color="">Burpees</font></td>
+ <td><font size="20" color="">person burns around 330 calories per 30 minutes of burpees</font></td>
+</tr>
+</table>
+</body>
+</html>
